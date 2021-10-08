@@ -1,0 +1,7 @@
+# Create the directory for this workshop
+C:\> mkdir flask-workshop
+C:\> cd flask-workshop
+# Create a Python 3 virtualenv under the 'flaskenv' directory
+C:\> virtualenv flaskenv
+# Activate the virtual environment
+C:\> flaskenv\Scripts\activate
